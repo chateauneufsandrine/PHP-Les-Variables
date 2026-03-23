@@ -20,10 +20,7 @@ $name = "Sandrine";
 
    
     
-    EXERCICE4
-    <h4>
-
-    </h4>
+    
 
 </body>
 
