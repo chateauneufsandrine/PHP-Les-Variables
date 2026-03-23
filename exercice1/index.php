@@ -14,11 +14,11 @@ $name = "Sandrine";
 </head>
 
 <body>
-    EXERCICE1
-    Afficher une variable dans du HTML
+    <!-- EXERCICE1 -->
+    <!-- Afficher une variable dans du HTML -->
     <h1>Bonjour vous êtes <?= $name ?></h1>
 
-   
+  
     
     
 

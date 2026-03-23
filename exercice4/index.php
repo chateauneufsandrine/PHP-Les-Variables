@@ -16,15 +16,16 @@ $isRecording = true;
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-      EXERCICE4
-    <h1>
-        <ul><?= $string ?></ul>
-        <ul><?= $int ?></ul>
-        <ul><?= $float  ?></ul>
-        <ul><?= $isRecording ?></ul>
-    </h1>
+      <!-- EXERCICE4 -->
+    <ul>
+        <li><?= $string ?></li>
+        <li><?= $int ?></li>
+        <li><?= $float  ?></li>
+        <li><?= $isRecording ?></li>
+    </ul>
 
 </body>
 </html>
